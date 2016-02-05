@@ -7,13 +7,13 @@
 	<key>CFBundleName</key>
 	<string>KIT</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>© 2013 pixeline http://pixeline.be</string>
+	<string>© 2013-2016 pixeline https://pixeline.be</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.1</string>
 	<key>CFBundleVersion</key>
 	<string>1.1</string>
 	<key>CFBundleGetInfoString</key>
-	<string>1.1, Copyright pixeline 2013</string>
+	<string>1.1, Copyright pixeline 2016</string>
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>CFBundleInfoDictionaryVersion</key>
