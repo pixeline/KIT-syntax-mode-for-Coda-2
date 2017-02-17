@@ -11,7 +11,4 @@ Double-click on the KIT.mode file. Done.
 - code completion
 
 ## How ?
-Nothing magickal. I simply duplicated the existing HTML syntax mode made by Coda, and adapted it so that it be associated to .kit files.
-
-## Author
-Alexandre Plennevaux
+No magic here. I simply adapted the existing HTML syntax mode by Panic so that it be associated to .kit files.
