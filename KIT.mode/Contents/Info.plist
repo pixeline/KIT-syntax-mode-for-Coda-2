@@ -5,15 +5,15 @@
 	<key>CFBundleIdentifier</key>
 	<string>SEEMode.KIT</string>
 	<key>CFBundleName</key>
-	<string>KIT</string>
+	<string>KIT Syntax</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>© 2013-2016 pixeline https://pixeline.be</string>
+	<string>© 2017 Pixeline https://pixeline.be</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.1</string>
+	<string>2.0</string>
 	<key>CFBundleVersion</key>
-	<string>1.1</string>
+	<string>2.0</string>
 	<key>CFBundleGetInfoString</key>
-	<string>1.1, Copyright pixeline 2016</string>
+	<string>2.0, Copyright pixeline 2017</string>
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>CFBundleInfoDictionaryVersion</key>
