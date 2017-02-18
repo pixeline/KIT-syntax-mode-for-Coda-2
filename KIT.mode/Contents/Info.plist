@@ -9,11 +9,11 @@
 	<key>NSHumanReadableCopyright</key>
 	<string>© 2017 Pixeline https://pixeline.be</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.0</string>
+	<string>2.1</string>
 	<key>CFBundleVersion</key>
-	<string>2.0</string>
+	<string>2.1</string>
 	<key>CFBundleGetInfoString</key>
-	<string>2.0, Copyright pixeline 2017</string>
+	<string>2.1, Copyright pixeline 2017</string>
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>CFBundleInfoDictionaryVersion</key>

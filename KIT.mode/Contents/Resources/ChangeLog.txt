@@ -1,2 +1,4 @@
+Changes with Version 2.1
+	 *) Fix syntax not detected
 Changes with Version 2.0
 	 *) Compatible with Coda 2.5
